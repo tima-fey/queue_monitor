@@ -6,7 +6,7 @@ To run this script you need the `chromium-browser` installed
 `apt install chromium-browser`
 
 This script also uses Yandex Cloud for image parsing.
-Therefore, you need a service account in Yandex Cloud with the ai.vision.user role.
+Therefore, you need a service account in Yandex Cloud with the `ai.vision.user` role.
 
 Don't forget to install some Python modules.
 `pip install -r requirements.txt`
