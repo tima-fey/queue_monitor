@@ -1,0 +1,10 @@
+telegram:
+    token: 'token'
+    chat_id: 'id'
+YC:
+    api_key: 'api_key'
+    folder_id: 'folder_id'
+sleep: False
+URLS_TO_CHECK:
+    - 'url1'
+    - 'url2'
